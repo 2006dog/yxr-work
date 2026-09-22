@@ -1,0 +1,85 @@
+﻿  grass.cpp
+  Theworldtime.cpp
+C:\Users\Administrator\Desktop\eco 1.11版（更新时间系统）\Theworldtime.h(24,6): error C2535: “int Theworldtime::getyears(void)”: 已经定义或声明成员函数
+  (编译源文件“grass.cpp”)
+      C:\Users\Administrator\Desktop\eco 1.11版（更新时间系统）\Theworldtime.h(20,6):
+      参见“Theworldtime::getyears”的声明
+  
+C:\Users\Administrator\Desktop\eco 1.11版（更新时间系统）\grass.h(5,1): error C2059: 语法错误:“using namespace”
+  (编译源文件“grass.cpp”)
+  
+C:\Users\Administrator\Desktop\eco 1.11版（更新时间系统）\Theworldtime.h(24,6): error C2535: “int Theworldtime::getyears(void)”: 已经定义或声明成员函数
+  (编译源文件“Theworldtime.cpp”)
+      C:\Users\Administrator\Desktop\eco 1.11版（更新时间系统）\Theworldtime.h(20,6):
+      参见“Theworldtime::getyears”的声明
+  
+C:\Users\Administrator\Desktop\eco 1.11版（更新时间系统）\Theworldtime.cpp(2,15): error C2533: “Theworldtime::{ctor}”: 构造函数不能有返回类型
+  ecoworld.cpp
+C:\Users\Administrator\Desktop\eco 1.11版（更新时间系统）\Theworldtime.h(24,6): error C2535: “int Theworldtime::getyears(void)”: 已经定义或声明成员函数
+  (编译源文件“ecoworld.cpp”)
+      C:\Users\Administrator\Desktop\eco 1.11版（更新时间系统）\Theworldtime.h(20,6):
+      参见“Theworldtime::getyears”的声明
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\excpt.h(17,1): error C2059: 语法错误:“字符串”
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\excpt.h(17,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\excpt.h(17,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(1496,1): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(1495,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(1497,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(1504,27): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(1504,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(1504,9): error C2365: “EXCEPTION_ROUTINE”: 重定义；以前的定义是“函数”
+  (编译源文件“ecoworld.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(1497,1):
+      参见“EXCEPTION_ROUTINE”的声明
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(1504,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(4486,24): error C3646: “LanguageHandler”: 未知重写说明符
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(4486,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(7137,24): error C3646: “LanguageHandler”: 未知重写说明符
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(7137,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(12763,24): error C3646: “Handler”: 未知重写说明符
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(12763,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(22437,1): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(22436,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(22436,1): error C2040: “PEXCEPTION_ROUTINE”:“int”与“int *”的间接寻址级别不同
+  (编译源文件“ecoworld.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(22438,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“ecoworld.cpp”)
+  
+  正在生成代码...
